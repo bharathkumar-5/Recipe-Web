@@ -34,8 +34,7 @@ Welcome to **Recipe-Web**, the ultimate platform to explore, create, and share d
 
 ## 📷 Screenshots
 
-![Homepage](https://recipe-web-cim5.vercel.app/)  
-![Recipe in Detail](https://recipe-web-cim5.vercel.app/recipe/1)  
+![Homepage](https://drive.google.com/uc?id=11pqSIuDhsAdspnh47KydTUd51ZvSpV-V)   
 
 ## 🎯 How to Run the Project
 
